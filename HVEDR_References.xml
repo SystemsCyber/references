@@ -1,6 +1,1218 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
 <b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:Tag>SecuringVehicles</b:Tag>
+<b:Title>Securing Vehicles Against Cyber Attacks</b:Title>
+<b:Year>2008</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Larson</b:Last>
+<b:First>U.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Nilsson</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>Proceedings of the 4th Annual Workshop on Cyber Security and Information Intelligence Challenges Ahead</b:BookTitle>
+<b:ConferenceName>Proceedings of the 4th Annual Workshop on Cyber Security and Information Intelligence Challenges Ahead</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>steiner2013</b:Tag>
+<b:Title>Data Sources and Analysis of a Heavy Vehicle Event Data Recorder - V-MAC III</b:Title>
+<b:Year>2013</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Steiner</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Cheek</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Hinkson</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>209-228</b:Pages>
+<b:Volume>6</b:Volume>
+<b:JournalName>SAE International Journal of Commercial Vehicles</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NHTSA-EDR-2002</b:Tag>
+<b:Title>Event Data Recorders; Summary of Findings by the NHTSA EDR Working Group</b:Title>
+<b:Year>2002</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Truck</b:Last>
+</b:Person>
+<b:Person>
+<b:Last>Group</b:Last>
+<b:Middle>Event Data Working</b:Middle>
+<b:First>Bus</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>NHTSA</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>Bosch1991</b:Tag>
+<b:Title>CAN Specification 2.0</b:Title>
+<b:Author/>
+<b:Institution>Robert Bosch GmbH</b:Institution>
+<b:PublicationTitle>CAN Specification 2.0</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>conference</b:BIBTEX_Entry>
+<b:Tag>Biryukov2009</b:Tag>
+<b:Title>Distinguisher and Related-Key Attack on the Full AES-256</b:Title>
+<b:Year>2009</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Biryukov</b:Last>
+<b:First>A.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Khovratovich</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Nikolic</b:Last>
+<b:First>I.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>Advances in Cryptology - CRYPTO 2009</b:BookTitle>
+<b:ConferenceName>Advances in Cryptology - CRYPTO 2009</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>IOCE2002</b:Tag>
+<b:Title>Guidelines for Best Practice in the Forensic Examination of Digital Technology</b:Title>
+<b:Year>2002</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>on Computer Evidence</b:Last>
+<b:Middle>Organization</b:Middle>
+<b:First>International</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>Digital Evidence Standards Working Group</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>bortolin2009</b:Tag>
+<b:Title>Validating Speed Data from Cummins Engine Sudden Deceleration Data Reports</b:Title>
+<b:Year>2009</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Bortolin</b:Last>
+<b:First>R.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>van Nooten</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Scodeller</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Alvar</b:Last>
+<b:Middle>et al.</b:Middle>
+<b:First>D.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>970-982</b:Pages>
+<b:Volume>2</b:Volume>
+<b:JournalName>SAE International Journal of Passenger Cars - Mechanical Systems</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>austin2011</b:Tag>
+<b:Title>An Examination of Snapshot Data in Caterpillar Electronic Control Modules</b:Title>
+<b:Year>2011</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Austin</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Farrell</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1</b:Pages>
+<b:Volume>1</b:Volume>
+<b:JournalName>SAE International Journal of Passenger Cars - Mechanical Systems</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+<b:Tag>Amini2012</b:Tag>
+<b:Title>PyDbg: A pure Python win32 debugging abstraction class</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Amini</b:Last>
+<b:First>Pedram</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:URL>http://pedram.openrce.org/PaiMei/docs/</b:URL>
+<b:PublicationTitle>PyDbg: A pure Python win32 debugging abstraction class</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:Tag>Johnson2014</b:Tag>
+<b:Title>On The Digital Forensics of Heavy Truck Electronic Control Modules</b:Title>
+<b:Year>2014</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Johnson</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kongs</b:Last>
+<b:First>A.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Daily</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>SAE World Congress</b:BookTitle>
+<b:ConferenceName>SAE World Congress</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>meyers2005</b:Tag>
+<b:Title>Meeting the Challenges of Scientific Evidence</b:Title>
+<b:Year>2005</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Meyers</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Rogers</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>Purdue University Center for Education and Research in Information Assurance and Security</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>messerschmidt2010</b:Tag>
+<b:Title>Simulating the Effect of Collision-Related Power Loss on the Event Data Recorders of Heavy Trucks</b:Title>
+<b:Year>2010</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Messerschmidt</b:Last>
+<b:First>W.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Austin</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Smith</b:Last>
+<b:First>P.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>et al</b:Last>
+<b:Middle>T.</b:Middle>
+<b:First>Cheek</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>SAE</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Berdajs2010</b:Tag>
+<b:Title>Extending Applications using an advanced approach to DLL injection and API hooking</b:Title>
+<b:Year>2010</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Berdajs</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Bosnic</b:Last>
+<b:First>Z.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>567-584</b:Pages>
+<b:Volume>40</b:Volume>
+<b:JournalName>Software: Practice and Experience</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:Tag>Gutterman2006</b:Tag>
+<b:Title>Analysis of the Linux Random Number Generator</b:Title>
+<b:Year>2006</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Gutterman</b:Last>
+<b:First>Zvi</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Pinkas</b:Last>
+<b:First>Benny</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Reinman</b:Last>
+<b:First>Tzachy</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>371-385</b:Pages>
+<b:StandardNumber> ISBN: 0-7695-2574-1 DOI: 10.1109/SP.2006.5</b:StandardNumber>
+<b:Publisher>IEEE Computer Society</b:Publisher>
+<b:City>Washington, DC, USA</b:City>
+<b:BookTitle>Proceedings of the 2006 IEEE Symposium on Security and Privacy</b:BookTitle>
+<b:ConferenceName>Proceedings of the 2006 IEEE Symposium on Security and Privacy</b:ConferenceName>
+<b:URL>http://dx.doi.org/10.1109/SP.2006.5</b:URL>
+<b:BIBTEX_Series>SP '06</b:BIBTEX_Series>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NISTSP80038A</b:Tag>
+<b:Title>NIST SP800-38A Recommendation for Block Cipher Modes of Operation</b:Title>
+<b:Year>2001</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Dworkin</b:Last>
+<b:First>Morris</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>NIST</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>drew2008</b:Tag>
+<b:Title>The Reliability of Snapshot Data from Caterpillar Engines for Accident Investigation and Analysis</b:Title>
+<b:Year>2008</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Drew</b:Last>
+<b:First>K.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>van Nooten</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Bortolin</b:Last>
+<b:First>R.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gervais</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>SAE</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>miller2013</b:Tag>
+<b:Title>Adventures in Automotive Networks and Control Units</b:Title>
+<b:Year>2013</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Miller</b:Last>
+<b:First>C.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Valasek</b:Last>
+<b:First>C.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>Web</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:Tag>Bellare1995</b:Tag>
+<b:Title>Optimal Asymmetric Encryption -- How to encrypt with RSA - Eurocrypt '94 Proceedings</b:Title>
+<b:Year>1995</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Bellare</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Rogaway</b:Last>
+<b:First>P.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>Lecture Notes in Computer Science Vol. 950</b:BookTitle>
+<b:ConferenceName>Lecture Notes in Computer Science Vol. 950</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NIJ2008</b:Tag>
+<b:Title>Electronic Crime Scene Investigation: A Guide for First Responders</b:Title>
+<b:Year>2008</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Report</b:Last>
+<b:Middle>Special</b:Middle>
+<b:First>NIJ</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>National Institute of Justice</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>conference</b:BIBTEX_Entry>
+<b:Tag>Carsec2010</b:Tag>
+<b:Title>Experimental Security Analysis of a Modern Automobile</b:Title>
+<b:Year>2010</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Koscher</b:Last>
+<b:First>K.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Czeskis</b:Last>
+<b:First>A.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Roesner</b:Last>
+<b:First>F.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Patel</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kohno</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Checkoway</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>McCoy</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kantor</b:Last>
+<b:First>B.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Anderson</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Shacham</b:Last>
+<b:First>H.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Savage</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>IEEE Symposium on Security and Privacy</b:BookTitle>
+<b:ConferenceName>IEEE Symposium on Security and Privacy</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>phdthesis</b:BIBTEX_Entry>
+<b:Tag>Mouat2002</b:Tag>
+<b:Title>XML Diff and Patch Utilities</b:Title>
+<b:Year>2002</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Mouat</b:Last>
+<b:First>Adrian</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Department>Heriot-Watt University</b:Department>
+<b:ThesisType>Ph.D. dissertation</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>mckemmish2008</b:Tag>
+<b:Title>When Is Digital Evidence Forensically Sound?</b:Title>
+<b:Year>2008</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>McKemmish</b:Last>
+<b:First>R.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>3-15</b:Pages>
+<b:Volume>4</b:Volume>
+<b:JournalName>Advances in Digital Forensics</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>Daubert1993</b:Tag>
+<b:Title>Daubert v. Merrell Dow Pharmaceuticals</b:Title>
+<b:Year>1993</b:Year>
+<b:Comments>URL: http://www.law.cornell.edu/supct/html/92-102.ZS.html (Retrieved 7/22/2014)</b:Comments>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Court</b:Last>
+<b:Middle>Supreme</b:Middle>
+<b:First>US</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:PublicationTitle>Daubert v. Merrell Dow Pharmaceuticals</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+<b:Tag>rp1210</b:Tag>
+<b:Title>Windows Communication API TMC RP1210</b:Title>
+<b:Author/>
+<b:Institution>Truck Maintenance Council</b:Institution>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+<b:Tag>securehash</b:Tag>
+<b:Title>Secure Hash Standard</b:Title>
+<b:Author/>
+<b:Institution>NIST</b:Institution>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>Goichon2012</b:Tag>
+<b:LCID>0</b:LCID>
+<b:Title>Entropy transfers in the Linux Random Number Generators</b:Title>
+<b:Year>2012</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Goichon</b:Last>
+<b:Middle>c}ois</b:Middle>
+<b:First>Fran{\c</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Lauradoux</b:Last>
+<b:First>C{\'e}dric</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Salagnac</b:Last>
+<b:First>Guillaume</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Vuillemin</b:Last>
+<b:First>Thibaut</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>26</b:Pages>
+<b:Issue>RR-8060</b:Issue>
+<b:Institution>INRIA</b:Institution>
+<b:ThesisType>Rapport de recherche</b:ThesisType>
+<b:Month>#Sep#</b:Month>
+<b:URL>http://hal.inria.fr/hal-00738638</b:URL>
+<b:BIBTEX_Abstract>{One of the services provided by the operating system to the applications is random number generation. For security reasons, the Linux Random Number Generator is built upon the combination of a deterministic algorithm known as the cryptographic post-processing and an unpredictable physical phenomenon called an Entropy Source. While the various cryptographic post-processing algorithms and their properties are well described in the literature, the entropy collection process itself is little studied. This report first presents the different approaches to random number generation, and then details the architecture of the Linux Random Number Generator. Then, we present the experiments we performed to monitor entropy transfers. Our results show that the main source of randomness in the system is the behavior of the hard drive, and that most random numbers produced by the generator are actually consumed by the kernel itself.}</b:BIBTEX_Abstract>
+<b:BIBTEX_Affiliation>CITI Centre of Innovation in Telecommunications and Integration of services - CITI , PLANETE - INRIA Sophia Antipolis / INRIA Grenoble Rh{\^o}ne-Alpes , SOCRATE - CITI Insa Lyon / Inria Grenoble Rh{\^o}ne-Alpes</b:BIBTEX_Affiliation>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NIST2004</b:Tag>
+<b:Title>Hardware Write Blocker Device (HWB) Specification</b:Title>
+<b:Year>2004</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>NIST</b:Last>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>NIST</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:Tag>AttackingWinzip</b:Tag>
+<b:Title>Attacking and Repairing the WinZip Encryption Scheme</b:Title>
+<b:Year>2011</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Kohno</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>Proceedings of the 11th ACM Conference on Computer and Communications Security</b:BookTitle>
+<b:ConferenceName>Proceedings of the 11th ACM Conference on Computer and Communications Security</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Carrier2003</b:Tag>
+<b:Title>Defining Forensic Examination and Analysis Tools Using Abstraction Layers</b:Title>
+<b:Year>2003</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Carrier</b:Last>
+<b:First>B.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1</b:Pages>
+<b:Volume>1</b:Volume>
+<b:JournalName>International Journal of Digital Evidence</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>reust2004</b:Tag>
+<b:Title>The Accuracy of Speed Captured by Commercial Vehicle Event Data Recorders</b:Title>
+<b:Year>2004</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Reust</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>SAE</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+<b:Tag>FedRules702</b:Tag>
+<b:Title>Federal Rules of Evidence Rule 702: Testimony By Expert Witnesses</b:Title>
+<b:Author/>
+<b:URL>http://www.law.cornell.edu/supct/html/92-102.ZS.html</b:URL>
+<b:PublicationTitle>Federal Rules of Evidence Rule 702: Testimony By Expert Witnesses</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>reust2010</b:Tag>
+<b:Title>Method to Determine Vehicle Speed During ABS Brake Events Using Heavy Vehicle Event Data Recorder Speed</b:Title>
+<b:Year>2010</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Reust</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Morgan</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Smith</b:Last>
+<b:First>P.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>644-652</b:Pages>
+<b:Volume>3</b:Volume>
+<b:JournalName>SAE International Journal of Passenger Cars - Mechanical Systems</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>writeblockertest</b:Tag>
+<b:Title>A Strategy For Testing Hardware Write Block Devices</b:Title>
+<b:Year>2006</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Lyle</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>3-9</b:Pages>
+<b:Volume>3</b:Volume>
+<b:JournalName>Digital Investigation</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Day1983</b:Tag>
+<b:Title>The OSI reference model</b:Title>
+<b:Year>1983</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Day</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Zimmerman</b:Last>
+<b:First>H.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1334-1340</b:Pages>
+<b:Volume>71</b:Volume>
+<b:JournalName>Proceedings of the IEEE</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>casey2002</b:Tag>
+<b:Title>Error, Uncertainty, and Loss in Digital Evidence</b:Title>
+<b:Year>2002</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Casey</b:Last>
+<b:First>Eoghan</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1</b:Pages>
+<b:Volume>1</b:Volume>
+<b:JournalName>International Journal of Digital Evidence</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>cramer2004</b:Tag>
+<b:Title>Design and Analysis of Practical Public-Key Encryption Schemes Secure Against Adaptive Chosen Ciphertext Attack</b:Title>
+<b:Year>2004</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Cramer</b:Last>
+<b:First>Ronald</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Shoup</b:Last>
+<b:First>Victor</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>167-226</b:Pages>
+<b:Volume>33</b:Volume>
+<b:JournalName>SIAM Journal on Computing</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NHTSA2008</b:Tag>
+<b:Title>Traffic Safety Facts 2008 Data</b:Title>
+<b:Year>2008</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>for Statistics</b:Last>
+<b:Middle>National Center</b:Middle>
+<b:First>NHTSA's</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Analysis</b:Last>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>National Highway Traffic Safety Administration</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>conference</b:BIBTEX_Entry>
+<b:Tag>koopman2004</b:Tag>
+<b:Title>Cyclic Redundancy Code (CRC) Polynomial Selection For Embedded Networks</b:Title>
+<b:Year>2004</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Koopman</b:Last>
+<b:First>P.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Chakravarty</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>The International Conference on Dependable Systems and Networks</b:BookTitle>
+<b:ConferenceName>The International Conference on Dependable Systems and Networks</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Plant2013</b:Tag>
+<b:Title>Timing and Synchronization of the Event Data Recorded by the Electronic Control Modules of Commerical Motor Vehicles - DDEC V</b:Title>
+<b:Year>2013</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Plant</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Cheek</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Austin</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Steiner</b:Last>
+<b:Middle>et al.</b:Middle>
+<b:First>J.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>209-228</b:Pages>
+<b:Volume>6</b:Volume>
+<b:JournalName>SAE International Journal of Commercial Vehicles</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+<b:Tag>j1939linux</b:Tag>
+<b:Title>J1939 on Linux Project</b:Title>
+<b:Author/>
+<b:URL>https://gitorious.org/linux-can/linux-can-j1939/</b:URL>
+<b:PublicationTitle>J1939 on Linux Project</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>conference</b:BIBTEX_Entry>
+<b:Tag>messerschmidt2013</b:Tag>
+<b:Title>DDEC Reports Version 8.02: Analysis of Daily Engine Usage Data</b:Title>
+<b:Year>2013</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Messerschmidt</b:Last>
+<b:First>W.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:BookTitle>IATAI Annual Conference</b:BookTitle>
+<b:ConferenceName>IATAI Annual Conference</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>ECMGuide</b:Tag>
+<b:Title>Electronic Control Module Field Guide</b:Title>
+<b:Year>2010</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Austin</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Messerschmidt</b:Last>
+<b:First>W.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>Transportation Safety Inc.</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Book</b:SourceType>
+<b:Tag>schneier1996</b:Tag>
+<b:Title>Applied Cryptography</b:Title>
+<b:Year>1996</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Schneier</b:Last>
+<b:First>Bruce</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+<b:Editor>
+<b:NameList>
+<b:Person>
+<b:Last>x</b:Last>
+</b:Person>
+</b:NameList>
+</b:Editor>
+</b:Author>
+<b:Publisher>Joh Wiley \&amp; Sons</b:Publisher>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NIST2001</b:Tag>
+<b:Title>Disk Imaging Tool Specification</b:Title>
+<b:Year>2001</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>NIST</b:Last>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>National Institute of Standards and Technology</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NISTSP80090A</b:Tag>
+<b:Title>SP 800-90A. Recommendation for Random Number Generation Using Deterministic Random Bit Generators</b:Title>
+<b:Year>2012</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Barker</b:Last>
+<b:Middle>B.</b:Middle>
+<b:First>Elaine</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kelsey</b:Last>
+<b:Middle>M.</b:Middle>
+<b:First>John</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Publisher>National Institute of Standards \&amp; Technology</b:Publisher>
+<b:City>Gaithersburg, MD, United States</b:City>
+<b:Institution>NIST</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Book</b:SourceType>
+<b:Tag>carrier2005</b:Tag>
+<b:Title>File System Forensic Analysis</b:Title>
+<b:Year>2005</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Carrier</b:Last>
+<b:First>B.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+<b:Editor>
+<b:NameList>
+<b:Person>
+<b:Last>x</b:Last>
+</b:Person>
+</b:NameList>
+</b:Editor>
+</b:Author>
+<b:Publisher>Addison Wesley</b:Publisher>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+<b:Tag>BeagleBone</b:Tag>
+<b:Title>BeagleBone (Design Kits \&amp; Evaluation Modules)</b:Title>
+<b:Comments>Retrieved 7/17/2014</b:Comments>
+<b:Author/>
+<b:URL>http://www.ti.com/devnet/docs/catalog/thirdpartydevtoolfolder.tsp?actionPerformed=productFolder&amp;productId=9680</b:URL>
+<b:PublicationTitle>BeagleBone (Design Kits \&amp; Evaluation Modules)</b:PublicationTitle>
+<b:BIBTEX_HowPublished>Website</b:BIBTEX_HowPublished>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>carsec2011</b:Tag>
+<b:Title>Comprehensive Experimental Analyses of Automotive Attack Surfaces</b:Title>
+<b:Year>2011</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Checkoway</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>McCoy</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kantor</b:Last>
+<b:First>B.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Anderson</b:Last>
+<b:First>D.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Shacham</b:Last>
+<b:First>H.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Savage</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Koscher</b:Last>
+<b:First>K.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Czeskis</b:Last>
+<b:First>A.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Roesner</b:Last>
+<b:First>F.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kohno</b:Last>
+<b:First>T.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1</b:Pages>
+<b:Volume>1</b:Volume>
+<b:JournalName>Usenix Security</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Manuel2011</b:Tag>
+<b:LCID>0</b:LCID>
+<b:Title>Classification and generation of disturbance vectors for collision attacks against SHA-1</b:Title>
+<b:Year>2011</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Manuel</b:Last>
+<b:First>Stephane</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>247-263</b:Pages>
+<b:Volume>59</b:Volume>
+<b:StandardNumber> ISSN: 0925-1022 DOI: 10.1007/s10623-010-9458-9</b:StandardNumber>
+<b:Publisher>Springer US</b:Publisher>
+<b:JournalName>Designs, Codes and Cryptography</b:JournalName>
+<b:Issue>1-3</b:Issue>
+<b:URL>http://dx.doi.org/10.1007/s10623-010-9458-9</b:URL>
+<b:BIBTEX_KeyWords>Hash functions; $${\tt{SHA}-1}$$; Collision attack; Disturbance vector; Local collisions independence; 94A60</b:BIBTEX_KeyWords>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>NHTSA2002</b:Tag>
+<b:Title>Supplemental Findings for Trucks, Motorcoaches, and School Buses</b:Title>
+<b:Year>2002</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Group</b:Last>
+<b:Middle>EDR Working</b:Middle>
+<b:First>NHTSA</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>National Highway Traffic Safety Administration</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+<b:Tag>vannooten2005</b:Tag>
+<b:Title>The Application and Reliability of Commercial Vehicle Event Data Recorders for Accident Investigation and Analysis</b:Title>
+<b:Year>2005</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>van Nooten</b:Last>
+<b:First>S.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Hrycay</b:Last>
+<b:First>J.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Institution>SAE</b:Institution>
+<b:ThesisType>Tech. rep.</b:ThesisType>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>FlashMem</b:Tag>
+<b:Title>Forensic Data Recovery From Flash Memory</b:Title>
+<b:Year>2007</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Breeuwsma</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>deJongh</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Klaver</b:Last>
+<b:First>C.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>van der Knijff</b:Last>
+<b:First>R.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Roeloffs</b:Last>
+<b:First>M.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1</b:Pages>
+<b:Volume>1</b:Volume>
+<b:JournalName>Small Scale Digital Device Forensics Journal</b:JournalName>
+</b:Source>
+<b:Source>
 <b:SourceType>Misc</b:SourceType>
 <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
 <b:Tag>QuickReferenceGuide</b:Tag>
