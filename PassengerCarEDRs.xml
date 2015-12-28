@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Rut14</b:Tag>
+<b:Title>Accuracy and Timing of 2013 Ford Flex Event Data Recorders</b:Title>
+<b:Year>2014</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Ruth</b:Last>
+<b:First>R.R.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Daily</b:Last>
+<b:First>J.S.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:StandardNumber> DOI: 10.4271/2014-01-0504</b:StandardNumber>
+<b:City>Detroit,</b:City>
+<b:JournalName>SAE Technical Paper 2014-01-0504</b:JournalName>
+<b:BIBTEX_Abstract>2013 and 2014 Ford Flex vehicles and airbag control modules with event data recorders (EDRs) were tested to determine the accuracy of speed and other data in the steady state condition, to evaluate time reporting delays under dynamic braking conditions, and to evaluate the accuracy of the stability control system data that the module records. This recorder is from the Autoliv RC6 family and this is the first known external research conducted on post 49CFR Part 563 Ford EDRs.
+
+The vehicle was instrumented with a VBox and a CAN data logger to compare external GPS based speeds to CAN data using the same synchronized time base. The vehicle was driven in steady state, hard braking, figure 8 and yaw conditions. The Airbag Control Module (ACM) was mounted onto a moving linear sled. The CAN bus data from driving was replayed as the sled created recordable events and the EDR data was compared to the reference instrumentation.
+
+The accuracy and timing of the data on a second stability control CAN bus was verified, and the transfer function between the CAN bus data and the EDR data was mapped, such that EDR data from any set of CAN data can be predicted. The speed data was well within the accuracy limits of +/?4% published in earlier EDR papers. The steering and yaw data from the EDR are reported opposite the SAE sign convention. Overall, the data demonstrates the accuracy of the RC6 EDR functionality.</b:BIBTEX_Abstract>
+</b:Source>
+</b:Sources>
