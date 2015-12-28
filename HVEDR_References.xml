@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+<b:Tag>QuickReferenceGuide</b:Tag>
+<b:Title>Electronic Control Module Field Guide</b:Title>
+<b:Year>2010</b:Year>
+<b:Comments>Last Accessed 28 December 2015</b:Comments>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Austin</b:Last>
+<b:First>Tim</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Messerschmidt</b:Last>
+<b:First>William</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Month>August</b:Month>
+<b:URL>http://crashanalysis.net/documents/Heavy%20Vehicle%20EDR%20Coverage%20List.pdf</b:URL>
+<b:PublicationTitle>Electronic Control Module Field Guide</b:PublicationTitle>
+<b:BIBTEX_HowPublished>\url{http://crashanalysis.net/documents/Heavy%20Vehicle%20EDR%20Coverage%20List.pdf}</b:BIBTEX_HowPublished>
+</b:Source>
+</b:Sources>
