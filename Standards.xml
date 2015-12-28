@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>J1587</b:Tag>
+<b:Title>Electronic Data Interchange Between Microcomputer Systems
+in Heavy-Duty Vehicle Applications</b:Title>
+<b:Author/>
+<b:Issue>J1587</b:Issue>
+<b:Institution>SURFACE VEHICLE RECOMMENDED PRACTICE</b:Institution>
+<b:PublicationTitle>Electronic Data Interchange Between Microcomputer Systems
+in Heavy-Duty Vehicle Applications</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>J1939-13</b:Tag>
+<b:Title>Off-Board Diagnostic Connector J1939-13</b:Title>
+<b:Author/>
+<b:Institution>Society of Automotive Engineers</b:Institution>
+<b:PublicationTitle>Off-Board Diagnostic Connector J1939-13</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>J1708</b:Tag>
+<b:Title>Serial Data Communications Between Microcomputer Systems in Heavy Duty Vehicle Applications J1708</b:Title>
+<b:Author/>
+<b:Issue>J1708</b:Issue>
+<b:Institution>SURFACE VEHICLE RECOMMENDED PRACTICE</b:Institution>
+<b:PublicationTitle>Serial Data Communications Between Microcomputer Systems in Heavy Duty Vehicle Applications J1708</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>J1939-71</b:Tag>
+<b:Title>Vehicle Application Layer J1939-71</b:Title>
+<b:Author/>
+<b:Institution>Society of Automotive Engineers</b:Institution>
+<b:PublicationTitle>Vehicle Application Layer J1939-71</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>J2728</b:Tag>
+<b:Title>Heavy Vehicle Event Data Recorder (HVEDR) Standard - Tier 1 J2728</b:Title>
+<b:Author/>
+<b:Institution>Society of Automotive Engineers</b:Institution>
+<b:PublicationTitle>Heavy Vehicle Event Data Recorder (HVEDR) Standard - Tier 1 J2728</b:PublicationTitle>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>J1939-73</b:Tag>
+<b:Title>Application Layer - Diagnostics J1939-73</b:Title>
+<b:Author/>
+<b:Institution>Society of Automotive Engineers</b:Institution>
+<b:PublicationTitle>Application Layer - Diagnostics J1939-73</b:PublicationTitle>
+</b:Source>
+</b:Sources>
